@@ -1,2 +1,3 @@
-# cpp.concepts
-concepts in c++
+# C++ Concepts
+
+Explore concepts in C++
